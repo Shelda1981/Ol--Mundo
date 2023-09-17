@@ -1,2 +1,4 @@
-# Olá Mundo
- meu primeiro repertorio versionado
+# Olá,Mundo!
+ meu primeiro repositorio versionado 
+
+ primeira aula
